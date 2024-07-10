@@ -6,7 +6,7 @@ An interactive web app that provides word definitions, pronunciations, and audio
 
 
 
-Features
+Features:
 
 Word Definition: Retrieve and display word definitions.
 
@@ -18,10 +18,16 @@ Responsive Design: Mobile-friendly interface.
 
 Loading Effect: Visual feedback during data retrieval.
 
-Error Handling: Manage connectivity and API errors.
+Error Handling: Manage connectivity and API errors.                                                                                                                                                                   
 
 
-Technologies Used
+
+
+
+
+
+
+Technologies Used:
 
 HTML, CSS, JavaScript
 
