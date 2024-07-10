@@ -21,7 +21,6 @@ Loading Effect: Visual feedback during data retrieval.
 Error Handling: Manage connectivity and API errors.
 
 
-
 Technologies Used
 
 HTML, CSS, JavaScript
