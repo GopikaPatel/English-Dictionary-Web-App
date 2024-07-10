@@ -9,10 +9,15 @@ An interactive web app that provides word definitions, pronunciations, and audio
 Features
 
 Word Definition: Retrieve and display word definitions.
+
 Pronunciation: Show phonetic pronunciation.
+
 Audio Pronunciation: Listen to correct pronunciation.
+
 Responsive Design: Mobile-friendly interface.
+
 Loading Effect: Visual feedback during data retrieval.
+
 Error Handling: Manage connectivity and API errors.
 
 
@@ -20,5 +25,7 @@ Error Handling: Manage connectivity and API errors.
 Technologies Used
 
 HTML, CSS, JavaScript
+
 Web Speech API
+
 External Dictionary API
